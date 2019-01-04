@@ -18,6 +18,7 @@ Ensemble methods are found to good for handling imbalance data.
 Random forest is found to be good at handling imbalance data.
  In this code , you can observe that ,we are getting better accuracy and loss with out smote but ,
  when we use the models to predict for whole dataset , we got better results  with deeplearning +smote in detecting Fraud detection.
+ Incase of any error/query /suggestion  feel free to contact me at vikassingh.sati@gmail.com
  
 Refer :
 https://medium.com/coinmonks/smote-and-adasyn-handling-imbalanced-data-set-34f5223e167
